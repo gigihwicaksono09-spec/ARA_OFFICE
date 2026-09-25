@@ -1,7 +1,7 @@
 {
   "_note": "KONFIG EDISI OFFICE. Yang DIBACA app = ARA_OFFICE/main/ara-office-config.json (repo publik khusus office). Edit di sini lalu unggah ke sana; edit di repo kode saja = NOL efek (sama seperti ara-config.json).",
   "killSwitch": {
-    "active": false,
+    "active": true,
     "_howto": "Set active:true untuk menonaktifkan SEMUA unit edisi office sekaligus pada launch berikutnya. Set kembali false untuk mengaktifkan lagi."
   }
 }
